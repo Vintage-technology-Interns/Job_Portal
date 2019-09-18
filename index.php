@@ -38,7 +38,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT
+ * APPLICATION ENVIRONMENT OF JOB-PORTAL
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your

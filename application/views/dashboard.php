@@ -29,7 +29,25 @@
 
             <div class="col-lg-3 col-xs-6">
                 <!-- small-box -->
-                <div class="small-box bg-green">
+                <div class="small-box bg-orange">
+                    <div class="inner">
+                        <h3>Part2 </h3>
+                        <p>Total paid orders</p>
+                    </div>
+                    <div class="icon">
+                        <i class="ion ion-stats-bars"></i>
+
+                    </div>
+                    <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+
+            <!-- ./col -->
+
+
+            <div class="col-lg-3 col-xs-6">
+                <!-- small-box -->
+                <div class="small-box bg-maroon">
                     <div class="inner">
                         <h3>Part2 </h3>
                         <p>Total paid orders</p>
@@ -65,25 +83,7 @@
 
             <div class="col-lg-3 col-xs-6">
                 <!-- small-box -->
-                <div class="small-box bg-green">
-                    <div class="inner">
-                        <h3>Part2 </h3>
-                        <p>Total paid orders</p>
-                    </div>
-                    <div class="icon">
-                        <i class="ion ion-stats-bars"></i>
-
-                    </div>
-                    <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
-                </div>
-            </div>
-
-            <!-- ./col -->
-
-
-            <div class="col-lg-3 col-xs-6">
-                <!-- small-box -->
-                <div class="small-box bg-green">
+                <div class="small-box bg-purple">
                     <div class="inner">
                         <h3>Part2 </h3>
                         <p>Total paid orders</p>
@@ -100,7 +100,7 @@
 
             <div class="col-lg-3 col-xs-6">
                 <!-- small-box -->
-                <div class="small-box bg-green">
+                <div class="small-box bg-teal">
                     <div class="inner">
                         <h3>Part2 </h3>
                         <p>Total paid orders</p>

@@ -1,0 +1,20 @@
+.pkg-p
+{
+	font-size: 21px;
+	margin: 0;
+}
+.pkg-list
+{
+	list-style-type: none;
+	text-align: center;
+	padding: inherit;
+}
+.pkg-content
+{
+	background-color:#ebebe0;
+}
+.pkg-content1
+{
+	background-color:#ebebe0;
+}
+

@@ -107,4 +107,4 @@
     
   </header>
   <!-- Left side column. contains the logo and sidebar -->
-  
+  <div class="content-wrapper">

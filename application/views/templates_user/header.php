@@ -1,41 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<meta name="description" content="">
-	<meta name="author" content="">
-    <title>Document</title>
+  <head>
+    <title>Skillhunt - Free Bootstrap 4 Template by Colorlib</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&display=swap" rel="stylesheet"> -->
 
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/open-iconic-bootstrap.min.css');?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/animate.css');?>">
+    
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/owl.carousel.min.css');?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/owl.theme.default.min.css');?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/magnific-popup.css');?>">
 
-	<!-- Main Styles -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/styles/style-horizontal.min.css');?>">
-	
-	<!-- Material Design Icon -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/fonts/material-design/css/materialdesignicons.css')?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/aos.css');?>">
 
-	<!-- mCustomScrollbar -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/mCustomScrollbar/jquery.mCustomScrollbar.min.css')?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/ionicons.min.css');?>">
 
-	<!-- Waves Effect -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/waves/waves.min.css')?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap-datepicker.css');?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/jquery.timepicker.css');?>">
 
-	<!-- Sweet Alert -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/sweet-alert/sweetalert.css')?>">
-	
-	<!-- Jquery UI -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/jquery-ui/jquery-ui.min.css')?>">
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/jquery-ui/jquery-ui.structure.min.css')?>">
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/jquery-ui/jquery-ui.theme.min.css')?>">
-
-	<!-- FullCalendar -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/fullcalendar/fullcalendar.min.css')?>">
-	<link rel="stylesheet" href="<?php echo base_url('assets/plugin/fullcalendar/fullcalendar.print.css')?>" media='print'>
-
-	<!-- Custome css -->
-	<link rel="stylesheet" href="<?php echo base_url('assets/custom.css');?>">
-</head>
-<body>
-
-	
+    
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/flaticon.css');?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/icomoon.css');?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/style.css');?>">
+  </head>
+  <body>
+    

@@ -67,6 +67,7 @@ class Admin_Controller extends MY_Controller
 		$this->load->view('templates_user/footer', $data);
 	}
 
+
 	
 
 	
